@@ -1,0 +1,57 @@
+{
+"profile":[
+"name":"vigneshraaj"
+"dateofbirth":"19/01/1997"
+"email":"vigneshraaj19@gmail.com"
+"phone":"8248218821"
+"degree":"MCA"
+"languages":"english,tamil"
+"location":{
+"address": "No.24,3rd street,Anna nagar,Pattabiram",
+ "city": "chennai",
+ "postalCode": "600072",
+ "Nationality": "indian"
+}
+],
+"education": [
+    {
+      "institution": "Master of computer appication",
+      "area": "chennai",
+      "studyType": "computer science",
+      "startDate": "25/05/2019",
+      "endDate": "03/06/2021",
+      "gpa": "7.8",
+      "courses": [
+        "C Programming -- NIIT."
+	"C++ Programming -- NIIT."
+	"Cloud Computing ( Amazon,Google)"
+	"Java In-Depth – Udemy."
+	"Entry level in Python programming – Python Institute."
+	"Web development –Udemy."
+	"Javascript  – Udemy."
+	 "React JS   -- Udemy."
+	"Real world coding in HTML & CSS – Udemy."
+	 "SQL  – Udemy."
+	 "Node.js, Express ,MongoDB  – Udemy."
+	"Bootstrap 4 – Udemy"
+	"Associate level in Python programming – Python Institute."
+      ]
+    }
+  ],
+"interests": [
+    {
+      "sports": "batminton,chess,basketball"
+      "Hobbies":"Drawing,music,travelling"
+}
+],
+"projects"
+[
+{
+"miniproject":"Developed a Smart Cabin Using IOT device connected with cloud Service to 
+check  to know  professor’s  present in her/his cabin are not."
+"majorproject":"Developed a realtime prediction of skin diseases using machine learning. "
+     }
+]   
+}
+
+   
